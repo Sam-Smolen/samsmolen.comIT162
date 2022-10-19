@@ -35,7 +35,7 @@
         $toName = "Sam Smolen"; //place your client's name here
         $website = "Sam Smolens IT162 Portal";  //place NAME of your client's website
 
-        //echo loadContact('simple.php');#demonstrates a simple contact form
+        echo loadContact('simple.php');#demonstrates a simple contact form
         //echo loadContact('multiple.php');#demonstrates multiple form elements
 
 	?>

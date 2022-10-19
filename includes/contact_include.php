@@ -46,8 +46,8 @@
  */
 
 //place your site keys here (keys for web-students.net posted here)
-$siteKey = "6Lc7TpQiAAAAAEGM-FIAssAS3N-cfCtFHLFaM-8W";
-$secretKey = "6Lc7TpQiAAAAAORk6S_520pY2ZDvOyfMV7yDCXpa";
+$siteKey = "6Lc9dJQiAAAAAKVsvz3Jij4g17f23VfcEIsgbQo8";
+$secretKey = "6Lc9dJQiAAAAABGR8YYWQPDEe4rO4oUwIpFtgx3a";
 date_default_timezone_set('America/Los_Angeles'); #sets default date/timezone for this website
 $server = 'hostgator.com';
 //end config area ----------------------------------------
