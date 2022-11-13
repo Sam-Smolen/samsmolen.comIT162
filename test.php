@@ -132,7 +132,7 @@
     
         $toAddress = "sam.smolen@icloud.com";  //place your/your client's email address here
         $toName = "Sam Smolen"; //place your client's name here
-        $website = "Sam Smolen's IT162 portal";  //place NAME of your client's website
+        $website = "IT162 Portal - Sam Smolen";  //place NAME of your client's website
 
         echo loadContact('simple.php');#demonstrates a simple contact form
         //echo loadContact('multiple.php');#demonstrates multiple form elements

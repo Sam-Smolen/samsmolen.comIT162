@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="css/nav.css" />
 <link rel="stylesheet" href="css/portal.css" />
 <link rel="stylesheet" href="css/forms.css" />
+<link rel="stylesheet" href="css/tables.css" />
 </head>
 
 <body>

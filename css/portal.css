@@ -37,6 +37,10 @@ h2, h3 {
     line-height: 1em;
 }
 
+h2.subheader {
+    text-align: center;
+}
+
 a {
     color:darkcyan;
     text-decoration: none;
