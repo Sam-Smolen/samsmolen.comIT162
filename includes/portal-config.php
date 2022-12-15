@@ -64,7 +64,7 @@ $nav1['contactme.php']="contact sam";
 $nav1['flowchart.php']="flowchart";
 $nav1['big/index.php']="BIG";
 $nav1['aia.php']="AIA";
-$nav1['https://samsmolen.com/benstile2.0/index.html']="Final Project";
+$nav1['https://samsmolen.com/benstile2.0/index.php']="Final Project";
 
 /*
 makeLinks function will create our dynamic nav when called.
